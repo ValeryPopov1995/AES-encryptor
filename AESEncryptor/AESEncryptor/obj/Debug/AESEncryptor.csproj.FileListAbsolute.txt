@@ -1,0 +1,23 @@
+C:\Users\4043\Desktop\ВалерДжан\AESEncryptor\AESEncryptor\bin\Debug\AESEncryptor.exe.config
+C:\Users\4043\Desktop\ВалерДжан\AESEncryptor\AESEncryptor\bin\Debug\AESEncryptor.exe
+C:\Users\4043\Desktop\ВалерДжан\AESEncryptor\AESEncryptor\bin\Debug\AESEncryptor.pdb
+C:\Users\4043\Desktop\ВалерДжан\AESEncryptor\AESEncryptor\obj\Debug\AESEncryptor.csprojResolveAssemblyReference.cache
+C:\Users\4043\Desktop\ВалерДжан\AESEncryptor\AESEncryptor\obj\Debug\Window1.baml
+C:\Users\4043\Desktop\ВалерДжан\AESEncryptor\AESEncryptor\obj\Debug\Window1.g.cs
+C:\Users\4043\Desktop\ВалерДжан\AESEncryptor\AESEncryptor\obj\Debug\App.g.cs
+C:\Users\4043\Desktop\ВалерДжан\AESEncryptor\AESEncryptor\obj\Debug\AESEncryptor_MarkupCompile.cache
+C:\Users\4043\Desktop\ВалерДжан\AESEncryptor\AESEncryptor\obj\Debug\AESEncryptor.g.resources
+C:\Users\4043\Desktop\ВалерДжан\AESEncryptor\AESEncryptor\obj\Debug\AESEncryptor.exe
+C:\Users\4043\Desktop\ВалерДжан\AESEncryptor\AESEncryptor\obj\Debug\AESEncryptor.pdb
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\obj\Debug\AESEncryptor.csprojAssemblyReference.cache
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\obj\Debug\Window1.baml
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\obj\Debug\Window1.g.cs
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\obj\Debug\App.g.cs
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\obj\Debug\AESEncryptor_MarkupCompile.cache
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\obj\Debug\AESEncryptor.g.resources
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\obj\Debug\AESEncryptor.csproj.CoreCompileInputs.cache
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\obj\Debug\AESEncryptor.exe
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\obj\Debug\AESEncryptor.pdb
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\bin\Debug\AESEncryptor.exe.config
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\bin\Debug\AESEncryptor.exe
+E:\непроизводственная деятельность\AESEncryptor\AESEncryptor\bin\Debug\AESEncryptor.pdb
